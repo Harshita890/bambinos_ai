@@ -1,0 +1,8 @@
+English_2125604619: 371 cues, 50 windows | speakers by words: {'Mridula Bose': 1129, 'Child': 1165}
+   median ASR quality 1.0 | windows <0.70: 1/42 | admin windows: 1 | tone-flag windows: 3 | visual-risk windows: 7
+Gita_2125422751: 422 cues, 50 windows | speakers by words: {'Anaya Mahato': 930, 'NANCY SHUKLA': 4055}
+   median ASR quality 1.0 | windows <0.70: 0/48 | admin windows: 0 | tone-flag windows: 0 | visual-risk windows: 14
+Maths_2125736982: 173 cues, 42 windows | speakers by words: {'Manjare': 155, 'Naazish Khanam': 3773}
+   median ASR quality 1.0 | windows <0.70: 0/38 | admin windows: 0 | tone-flag windows: 6 | visual-risk windows: 9
+Science_2125687282: 320 cues, 52 windows | speakers by words: {'Mary James Mekkattel': 4447, 'Devnanda Arun': 553}
+   median ASR quality 1.0 | windows <0.70: 0/49 | admin windows: 4 | tone-flag windows: 0 | visual-risk windows: 5
