@@ -1,0 +1,18 @@
+| Metric | Manual today | AI-assisted, month 1 (45% precision) | AI-assisted, day 90 (60% precision) |
+|---|---|---|---|
+| Review hours / week | 375 | 27 | 27 |
+| Editor-accepted clips / week | 135 | 135 | 180 |
+| Editing hours / week | 101 | 68 | 90 |
+| Total weekly cost (INR) | 200,625 | 59,917 | 71,167 |
+| Cost per usable clip (INR) | 1,486 | 444 | 395 |
+
+Review time saved: 93%  |  machine cost / week: INR 15,300  |  AI candidates / week: 300
+
+Sensitivity (day-90 cost per clip, INR)
+  manual hit-rate 10%: manual 2,042  vs  AI 395
+  manual hit-rate 15%: manual 1,486  vs  AI 395
+  manual hit-rate 25%: manual 1,042  vs  AI 395
+  editor precision 30%: AI cost/clip 541, clips/week 90
+  editor precision 45%: AI cost/clip 444, clips/week 135
+  editor precision 60%: AI cost/clip 395, clips/week 180
+  editor precision 75%: AI cost/clip 366, clips/week 225
